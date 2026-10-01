@@ -78,11 +78,11 @@ Senior Full Stack Developer
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Stats </h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rahulsharma-ship-it&theme=dark&show_icons=true">
-<img src="https://streak-stats.demolab.com?user=Rahulsharma-ship-it&theme=github-dark" alt="Rahul" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahulsharma54204-dev&theme=dark&show_icons=true">
+<img src="https://streak-stats.demolab.com?user=rahulsharma54204-dev&theme=github-dark" alt="Rahul" />
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rahulsharma-ship-it&margin-w=15" alt="kkshakya" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rahulsharma54204-dev&margin-w=15" alt="kkshakya" /> </p>
  <h2> ✍️ Random Dev Quote </h2>
  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
 </div>
